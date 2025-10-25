@@ -21,7 +21,7 @@ class WarhammerTheme extends HTMLElement {
     render() {
         this.shadowRoot.innerHTML = `
             <style>
-                @import "/styles/themes/warhammer-theme.css";
+                @import "../styles/themes/warhammer-theme.css";
             </style>
             
             <div class="light-overlay"></div>

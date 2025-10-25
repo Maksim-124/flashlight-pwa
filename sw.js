@@ -1,4 +1,4 @@
-const CACHE_NAME = 'flashlight-v1.0.0';
+const CACHE_NAME = 'flashlight-v1.0.1'; // Изменил версию для обновления кэша
 const urlsToCache = [
     './',
     './index.html',
