@@ -30,7 +30,7 @@ class ThemeManager extends HTMLElement {
                 
                 .theme-toggle {
                     position: fixed;
-                    top: 130px;
+                    top: 150px;
                     right: 20px;
                     z-index: 10000;
                     width: 40px;
