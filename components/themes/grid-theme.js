@@ -18,7 +18,7 @@ class GridTheme extends HTMLElement {
     render() {
         this.shadowRoot.innerHTML = `
             <style>
-                @import "../styles/themes/grid-theme.css";
+                @import "https://maksim-124.github.io/flashlight-pwa/styles/themes/grid-theme.css";
             </style>
             
             <div class="light-overlay"></div>
